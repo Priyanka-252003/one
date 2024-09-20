@@ -1,4 +1,3 @@
 # one
-my first git repo
-<br>
-happy birthday doledole.
+my first git project!
+"hello world"
